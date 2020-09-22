@@ -1,0 +1,5 @@
+*.txt
+*.csv
+*.gz
+*.tar.gz
+__pycache__
